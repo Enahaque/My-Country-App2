@@ -11,3 +11,31 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.App h1{
+  font-family: 'Courier New', Courier, monospace;
+  background-color: honeydew;
+}
+
+.country{
+  border: 1px solid sandybrown;
+  padding: 15px;
+  margin: 15px;
+  border-radius: 15px;
+  background-color:honeydew;
+  /* display: grid; */
+  /* grid-template-columns: repeat(3,1fr); */
+}
+
+.country h2{
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+}
+
+.country img{
+  width: 250px;
+  border: 1px solid sandybrown;
+  padding: 15px;
+  margin: 15px;
+  background-color:ghostwhite;
+  border-radius: 15px;
+}
